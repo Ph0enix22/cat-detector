@@ -184,11 +184,8 @@ Detection accuracy: ~90% on frontal faces
 
 ![Webcam Demo](demo/webcam_demo.gif)
 
-### Before Detection
-![Original Image](screenshots/catto.jpeg)
-
-### After Detection
-![Detected Image](demo/img1.jpeg)
+### Image Detection
+![Detected Image](demo/img1.png)
 
 ### Live Webcam Detection (Video)
 
