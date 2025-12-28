@@ -1,0 +1,17 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local original videos recorded just for testing (optional)
+videos/
