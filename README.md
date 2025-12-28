@@ -187,10 +187,6 @@ Detection accuracy: ~90% on frontal faces
 ### Image Detection
 ![Detected Image](demo/img1.png)
 
-### Live Webcam Detection (Video)
-
-<video src="demo/webcam_demo.mp4" controls loop></video>
-
 ## 🚧 Future Improvements
 
 ### Short-term
